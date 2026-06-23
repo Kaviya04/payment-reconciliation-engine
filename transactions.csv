@@ -1,0 +1,10 @@
+txn_id,invoice_id,partner,amount,currency,txn_date,channel,reference
+TXN-101,INV-001,Zalando,4200.00,EUR,2024-01-14,bank_transfer,ZAL-PAY-2401
+TXN-102,INV-003,Otto GmbH,3300.00,EUR,2024-01-22,bank_transfer,OTT-2401-003
+TXN-103,INV-005,H&M,2050.00,EUR,2024-01-30,card,HM-JAN-005
+TXN-104,INV-007,Asos,,EUR,2024-01-28,bank_transfer,ASO-2401-007
+TXN-105,INV-008,Zalando,3650.00,EUR,2024-02-09,bank_transfer,ZAL-PAY-2402
+TXN-106,INV-010,H&M,5100.00,EUR,2024-02-14,bank_transfer,HM-FEB-010
+TXN-107,INV-012,Otto GmbH,2200.00,EUR,2024-02-11,bank_transfer,OTT-2402-012
+TXN-108,INV-999,Unknown Partner,750.00,EUR,2024-02-01,bank_transfer,UNKNOWN-REF
+TXN-109,INV-001,Zalando,4200.00,EUR,2024-01-14,bank_transfer,ZAL-PAY-2401-DUP
